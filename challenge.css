@@ -1,1 +1,35 @@
-test
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    width: 1000px;
+    border: 1px solid black;
+}
+
+.menu_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.menu_li {
+    float: left;
+    border-right: 1px solid white;
+}
+
+.menu_a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+};
+
+.grafiek_a {
+    
+}
