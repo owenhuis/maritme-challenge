@@ -11,5 +11,3 @@ staafdiagram.style.width = "400px";
 // voeg de uitslagen toe in lijnen en punten toe door te kijken wat de vorige en het verschil met de volgende ois om mogelijk dde toekomst te voorspeellen
 
 grafiek.appendChild(staafdiagram);
-
-document.body.appendChild(grafiek);
