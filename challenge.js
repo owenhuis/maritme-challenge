@@ -1,1 +1,2 @@
-test
+const staafdiagram = document.createElement("div")
+
